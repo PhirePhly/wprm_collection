@@ -1,0 +1,203 @@
+### Rolling Stock Inventory at the WPRM
+#
+# Cars are roughly in order East to West per track
+#
+# l - Locomotive
+# c - Caboose
+# p - Passenger Equipment
+# b - Boxcar
+# g - Gondola (and some of the hopper cars on accident)
+# f - Flatcar
+# h - Hopper car
+# t - Tankcar
+# crane - Crane
+# tender - steam tender/water car
+# plow - Plow
+# snail - Snail
+# mw - Maintenance of Way equipment
+Reporting Mark,Category,Comment
+## 1 rail
+WPMW 37-10,g,Derrick gondola
+WP 62something,g,
+WP 37,crane,
+SSW 23908,b,
+WP 708,l,
+Model T,mw,
+FRRX 1857,l,
+WP 501,l,
+FRW 20,l,Yellow
+WP 608,l,
+WP 707,l,
+SN 712,l,
+WP 2001,l,
+WP 917-D,l,
+## 2 rail
+QRR 3,l,
+SN 1642,c,
+something,b,red
+Pullman Co 8300,p,
+WP 645,c,
+UP 105,p,
+something,b,Steam Crew
+something,tender,For WP 165
+WP 165,l,
+FRRX 841,p,
+FRRX 5653,p,
+WP 925-C,l,FRRX
+WP 805-A,l,
+WP 1503,l,
+## 3 rail
+MP 13878,c,
+UP 25283,c,
+UP 25732,c,
+DRGW 01414,c,
+SP 4706,c,
+SP 2873,l,
+## 4 rail
+UP 25049,c,
+UP 849-X,l,
+UP 6946,l,
+SPMW 208,plow,
+SPMW 8221,snail,For SPMW 208
+WP 705,l,
+WP 725,l,
+WP 731,l,
+QRR 1100,l,
+## 5 rail
+WP E-14,crane,Burro crane
+WP 6424,g,
+WPMW 37-6,b,
+WPMW 37-10,b,
+UP 907344 MW,b,
+UP 905884,b,
+## 6 rail
+something 504,mw,Tamper
+WP 106,p,
+CP 701,p,
+VIA 1112,p,
+SP 1337,c,
+WP 3472,b,
+WPMW 20094,b,
+WPMW 20772,b,
+WP 6116,g,
+WPMW 8545,f,
+something 411,f,Red
+something,c,Wooden caboose on something 411 flatcar
+WPMW 7257,t,unsure on reporting mark
+WPMW something83,t,
+## 7 rail
+DDX 12107,t,Fuel car
+something,t,Waste oil car
+WP 512,l,FRRX
+SNCT 51,l,
+WP 483,c,
+ATSF 999197,c,
+WP 20807,b,
+WP 22023,b,
+SPMW 7273,g,
+WP something,g,
+something,g,
+somethingMW 8674,f,Pink and unsure of reporting number
+WPMW 90,crane,
+## Inside Balloon
+CCT 24,c,
+MR 1236,b,
+HTTX 95130,f,
+something,f,Red and wood
+SP 1060,c,
+ONW 300,c,
+WPMW 274,f,Marked as MWWP
+WP 563,l,
+WP 921,l,
+MP 27171,g,
+## Dodge Pole
+FGEX 59932,b,
+PFE 11454,b,
+WP 614,c,
+SP 359246,h,
+SP 358848,h,
+SP 358262,h,
+WPMW 37-8,p,
+WPMW 37-7,p,
+## RIP 1
+UP 900002,plow,
+WP 3796,b,
+WPMW 0212,b,
+WP 19901,b,
+WP 21255,b,
+WP 20868,b,
+WP 19801,b,
+SRY 835,b,
+JRSX 5021,b,
+UP 903658,b,
+WP 3417,b,
+MK 5164,b,
+UP 917138,b,
+FRRX 100468,b,
+WP 20something,b,
+WP 64806,b,
+WP 484,c,
+WP 428,c,
+UP 5810,p,RPO car
+WP 832,p,
+FRRX 4717,p,
+something 945,p,
+CNW 128127,g,
+C 694629,b,
+UP 24592,c,
+## RIP 2
+QRR 4,l,
+TSMW 0565,something,
+WPMW 11012,h,ballast dump car
+WP 11509,g,
+WP 18503,b,
+WP 3032,b,
+TS something,b,
+DBMX something,b,Blue
+UP 54689,f,
+WP 804-A,something,FRRX locomotive cab on UP 54689
+MP 14144,mw,
+WP 3051,l,
+## RIP 3
+VE 778,l,
+something,b,
+WP 27-2,tender,
+ONW 4,l,
+ONW 3,l,
+WP 64004,b,
+WPMW 0291,t,
+KCC 2,l,
+KCC 908,l,
+something,p,Vista Flat
+something,p,Vista Flat
+## RIP 4
+WPMW 37-2,f,
+WP 34005,b,
+WP 37007,b,
+WP 36011,b,
+## Office Spur
+something,b,Green
+something,b,wooden
+something,p,baggage car
+USAX G-50,p,
+## Ramp Track
+MP 843595,g,
+GONX 330488,g,
+WP 6550,g,
+WP 1847,f,
+something,f,
+FRRX 1851,f,
+WP 646,c,On FRRX 1851
+SN 5005,h,
+AQFX 3682,t,Unsure on reporting number
+WPMW 0196,h,
+WP 5023,g,
+WP 11974,h,
+FRRX 600430,f,
+WPMW 0500,f,
+## South lead
+something,l,Plymoth
+## Ground
+something,b,Wooden
+something,mw,Weed burner
+
